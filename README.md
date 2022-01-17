@@ -1,0 +1,2 @@
+# Text-Editor
+Aim behind implementation of this project to make a clear understandability of various algorithms of  data structures. This project simulates the data structure operations such as sorting. In array, stack, queue,  and linked list as well. Thus, my project report provides effective and efficient knowledge of data structures.  This also provide some theoretical knowledge regarding the data structure.
